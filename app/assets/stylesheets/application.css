@@ -66,3 +66,11 @@
   font-size: 20px;
   color: #333;
 }
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #fff;
+}
